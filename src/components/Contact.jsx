@@ -35,7 +35,7 @@ const iconVariants = {
 const Contact = () => {
   return (
     <section className="min-h-screen flex flex-col justify-center px-4
-    md:px-10 min-h-screen " id="contact">
+    md:px-10 " id="contact">
         <h2 className="text-4xl md:text-6xl font-mediunm tracking-tight mb-5">
             CONTACT
         </h2>
