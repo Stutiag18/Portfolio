@@ -30,7 +30,7 @@ export const HERO_CONTENT = {
   description:
     "I’m currently a undergraduate student trying to bring visions to life through interactive digital solutions.",
   resumeLinkText: "Download Resume",
-  resumeLink: "/resume.pdf",
+  resumeLink: "/StutiResume.pdf",
 };
 
 export const PROJECTS = [
